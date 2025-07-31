@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'finweb-fuller'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E7E27ABE55D46428D48465411AC960A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_169AD4177FA74171AF05D6AAEA100229 }}
